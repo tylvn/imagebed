@@ -1,2 +1,2 @@
-# imagebad
-Personal Imagebad
+# imagebed
+Personal Imagebed
