@@ -1,2 +1,2 @@
 # Image bed
-This is personal image bed of [tylvn](https://github.com/tylvn) for writing notes, blogs, etc.
+This is the personal image hosting service for my writing.
